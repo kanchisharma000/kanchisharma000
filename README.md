@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kanchi 👋
+
+🎯 Aspiring Data Analyst with hands-on experience in Python, Tableau, and Power BI  
+
+## 🚀 Projects
+- 📊 Job Market Analysis Dashboard (Tableau)
+- 📺 Netflix Data Analysis & Dashboard
+- 🛒 Sales Data Analysis
+- 👥 Customer Segmentation (K-Means)
+- 📈 Stock Time Series Analysis
+- 🏠 House Price Prediction Model & Streamlit App
+
+## 🛠 Skills
+Python | Pandas | NumPy | Power BI | Tableau | Machine Learning | Streamlit
+
+## 📫 Connect with me
+LinkedIn: www.linkedin.com/in/kanchi-sharma-b8a3203a0
 
 <!--
 **kanchisharma000/kanchisharma000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
